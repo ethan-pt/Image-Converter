@@ -10,7 +10,6 @@
 * [Screenshots](#screenshots)
 * [Usage](#usage)
 * [Project Status](#project-status)
-* [To Do](#to-do)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
@@ -29,26 +28,19 @@
 List the ready features here:
 
 * Convert PNG to JPG
-* Convery JPG to PNG
+* Convert JPG to PNG
 
 ## Screenshots
 
-![Example screenshot](./img/)
+![Example screenshot](./img/screenshot.png)
 
 ## Usage
 
-Press Select Image, navigate to image location, and press convert to whichever format you need.
+Press Browse, navigate to image location, and press convert to whichever format you need.
 
 ## Project Status
 
-Project is: _in progress_
-
-## To do
-
-* Browse for image
-* Detect image format
-* Convert PNG to JPG
-* Convert JPG to PNG
+Project is: _completed_
 
 ## Acknowledgements
 
