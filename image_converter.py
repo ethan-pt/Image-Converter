@@ -18,7 +18,6 @@ def get_img():
     global im1
     import_file_path = filedialog.askopenfilename()
     im1 = Image.open(import_file_path)
-    #im1 = Image.open(import_file_path)
 
 def conv_jpg():
     rgb_im1 = im1.convert('RGB')
