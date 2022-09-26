@@ -9,6 +9,7 @@
 * [Features](#features)
 * [Screenshots](#screenshots)
 * [Usage](#usage)
+* [Setup](#setup)
 * [Project Status](#project-status)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
@@ -35,6 +36,11 @@
 ## Usage
 
 Press Browse, navigate to image location, and press convert to whichever format you need.
+
+## Setup
+
+`pip install tk`
+`pip install Pillow`
 
 ## Project Status
 
