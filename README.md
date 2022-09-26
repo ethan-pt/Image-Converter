@@ -1,6 +1,6 @@
 # Image Converter
 
-  A simple image converter
+  Simple image converter to learn some Python libraries.
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@
 
 ## General Information
 
-  Simple image converter to learn some Python libraries
+  Converts PNG to JPG, and JPG to PNG
 
 ## Technologies Used
 
@@ -24,8 +24,6 @@
   * Tkinter
 
 ## Features
-
-List the ready features here:
 
 * Convert PNG to JPG
 * Convert JPG to PNG
@@ -48,5 +46,5 @@ Project is: _completed_
 
 ## Contact
 
-* [GitHub](https://github.com/Assentt)
+* [GitHub](https://github.com/ethan-pt)
 * [Email](mailto:tubbeethan@gmail.com)
